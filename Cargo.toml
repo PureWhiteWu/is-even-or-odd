@@ -1,0 +1,16 @@
+[package]
+name = "is-even-or-odd"
+version = "1.0.0"
+edition = "2021"
+authors = ["Pure White <me@purewhite.io>"]
+description = "Returns true if the given number is even or odd."
+repository = "https://github.com/PureWhiteWu/is-even-or-odd"
+readme = "README.md"
+keywords = ["integer", "even", "odd", "math", "numeric"]
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+is-even = "1"
+is-odd = "1"
