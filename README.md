@@ -4,7 +4,7 @@ Returns true if the given number is even or odd.
 
 ## Install
 
-Specify the dependencty in Cargo.toml:
+Specify the dependency in Cargo.toml:
 
 ```yaml
 [dependencies]
